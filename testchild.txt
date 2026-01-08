@@ -1,2 +1,3 @@
 Test child file
 Első módosítás
+Ez a második módosítás második része
